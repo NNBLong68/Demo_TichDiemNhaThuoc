@@ -240,15 +240,12 @@ namespace WindowsFormsApp1
             if (kh == null)
                 return;
 
-            // Hiện thông tin khách hàng
             txtSDTKhachHang.Text = kh.sdt;
             txtTenKH.Text = kh.HoTen;
             txtDiemTichLuy.Text = kh.TongDiemTichLuy.ToString();
 
-            // Xóa lịch sử cũ
             lVLichSu.Items.Clear();
 
-            // Hiện lịch sử giao dịch của khách này
             foreach (GiaoDich gd in dsGiaoDich)
             {
                 if (gd.Khach == kh)
