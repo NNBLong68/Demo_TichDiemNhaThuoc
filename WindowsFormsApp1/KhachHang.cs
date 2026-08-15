@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -24,5 +25,26 @@ namespace WindowsFormsApp1
         {
             return this.TongDiemTichLuy += dc;
         }
+
+        public void NhapTuFile(string filename, List<KhachHang> dsKhachHang)
+        {
+            StreamReader sr = new StreamReader(filename);
+            string line;
+
+            while ((line = sr.ReadLine()) != null)
+            {
+                string[] data = line.Split(',');
+
+                string sdt = data[0];
+                string hoTen = data[1];
+                int tongDiemTichLuy = int.Parse(data[2]);
+
+                KhachHang kh = new KhachHang(sdt, hoTen, tongDiemTichLuy);
+
+                dsKhachHang.Add(kh);
+            }
+            sr.Close();
+        }
     }
+
 }

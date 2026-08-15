@@ -8,3 +8,15 @@ D:\Downloads\Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.c
 D:\Downloads\Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\Downloads\Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\Downloads\Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\bin\Debug\data.txt
+D:\Downloads\Demo_TichDiemNhaThuoc\WindowsFormsApp1\bin\Debug\giaodich.txt
